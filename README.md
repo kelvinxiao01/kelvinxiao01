@@ -1,6 +1,6 @@
 # Hi, I'm Kelvin. Thanks for visiting!
 
-🖥️ Founding SWE @ Rezz & Full-stack @ Omnisynk AI <br/>
+🖥️ Founding SWE @ Rezz & SAAS Dev <br/>
 📖 B.A. Mathematics and B.A. Economics @ New York University & Incoming Masters in Applied Analytics @ Columbia
 
 
