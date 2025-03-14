@@ -1,7 +1,7 @@
 # Hi, I'm Kelvin. Thanks for visiting!
 
-🖥️ Founding SWE @ Rezz & SAAS Dev <br/>
-📖 B.A. Mathematics and B.A. Economics @ New York University & Incoming Masters in Applied Analytics @ Columbia
+🖥️ Founding swe @ Rezz | Part time swe @ Addinex | saas Dev <br/>
+📖 b.a. mathematics and b.a. economics @ nyu & current m.s. in Applied Analytics @ Columbia
 
 
 ## 🌐 Socials:
