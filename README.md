@@ -1,6 +1,6 @@
 # Hi, I'm Kelvin. Thanks for visiting!
 
-🖥️ founding swe @ Rezz | part time swe @ Addinex | saas dev <br/>
+🖥️ swe @ Addinex | saas dev <br/>
 📖 b.a. mathematics and b.a. economics @ nyu & current m.s. in applied analytics @ Columbia
 
 
