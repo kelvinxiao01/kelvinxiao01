@@ -1,4 +1,4 @@
-software engineer, 3x hackathon winner. [!(more about me)](https://kelvinx.dev)
+software engineer, 3x hackathon winner. [more about me](https://kelvinx.dev)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dagrasstoucher) 
 
